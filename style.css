@@ -1,0 +1,51 @@
+a.navlink {
+  color: aliceblue
+}
+
+a.navbar-brand {
+  color: aliceblue
+}
+
+table.resume {
+  margin: 0 auto;
+  width: 96%;
+  column-count: 5;
+}
+
+td {
+  text-align: left
+}
+
+
+td.longcol {
+  word-wrap: break-word;
+  max-width: 150px
+}
+
+th.heading {
+  text-align: center;
+  /*font-size: 2em;*/
+}
+
+th {
+  text-align: left
+}
+
+td.left-spacer {
+  column-span: 3
+}
+
+tr.spacer-row {
+  height: 10px;
+}
+
+tr.section-row {
+  height: 35px
+}
+
+td.footer {
+  text-align: center;
+  width: 80px
+}
+
+
